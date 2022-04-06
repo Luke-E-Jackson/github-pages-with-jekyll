@@ -1,4 +1,4 @@
-theme: minima
+Minima:
 ---
 title: "Luke Jackson - Resume"
 ---
