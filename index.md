@@ -1,5 +1,8 @@
 ---
-minima: "Luke Jackson - Resume"
+theme: minima
+---
+---
+title: "Luke Jackson - Resume"
 ---
 ## Luke Jackson
 (662).687.2526 • Fulton, MS 38843 • luke.e.jackson@protonmail.com • linkedin.com/in/lej03/
